@@ -1,7 +1,8 @@
 # MapTask
+
 topics included :
 - Night Mode
-- Map and adding Markers
+- Map and adding Markers(static coordinates)
 - customized bottom tab bar navigator
 
 
