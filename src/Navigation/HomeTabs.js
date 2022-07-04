@@ -50,7 +50,7 @@ export const HomeTabs=()=>{
               left:25,
               right:25,
               borderRadius:25,
-              height:70,
+              height:60,
               ...styles.shadow
               
             },

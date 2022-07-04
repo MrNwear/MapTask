@@ -20,6 +20,16 @@ const styles = StyleSheet.create({
         backgroundColor:'white',
         justifyContent:"center",
         alignItems:"center",
+    },
+    inputStyle:{
+        borderBottomWidth:0,
+        position:'absolute',
+        top:30,
+        marginHorizontal:10,
+        width:'90%',
+        color:'grey',
+        borderRadius:5,
+        
     }
    });
    export default styles;
